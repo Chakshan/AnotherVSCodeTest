@@ -11,6 +11,8 @@ import edu.wpi.first.wpilibj2.command.SubsystemBase;
 
 public class DriveTrain extends SubsystemBase {
 
+  
+  // Initializing 4 drivetrain motors
   Spark leftFront;
   Spark leftBack;
   Spark rightFront;
